@@ -1,13 +1,14 @@
 # Script_for_PointNet-_used_in_MasterThesis
 This is the Python script for PiointNet++, which has been used in master thesis to train the network and test it.
 ## Environments Requirement
-···
+```
 CUDA = 10.2
 Python = 3.7.0
 PyTorch = 1.6
 open3d
 opencv
 scikit-learn
+```
 
 ## How to Run
 ### Train the Model
